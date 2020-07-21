@@ -6,7 +6,13 @@ Welcome to Learning process of Git Hub
 
 2. Create a new file
 
-3. Commit changes  by adding description 
+3. Commit changes  by adding description
+
+5. Add merge
+
+
+
+Thank you 
 
 
 
