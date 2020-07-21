@@ -8,6 +8,8 @@ Welcome to Learning process of Git Hub
 
 3. Commit changes  by adding description 
 
+4. Add new version 
+
 
 
 
